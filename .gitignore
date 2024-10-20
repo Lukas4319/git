@@ -1,1 +1,8 @@
-*.c
+# Log file
+*.log
+
+#Package files
+*.zip
+
+# test4 files
+test4.txt
